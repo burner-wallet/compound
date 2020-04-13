@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@burner-wallet/assets": "^1.0.0",
+    "@burner-wallet/compound": "^0.1.0",
     "@burner-wallet/core": "^1.0.0",
     "@burner-wallet/exchange": "^1.0.0",
     "@burner-wallet/modern-ui": "^1.0.0",
@@ -11,7 +12,6 @@
     "@types/react": "*",
     "@types/react-dom": "16.8.4",
     "@types/react-router-dom": "^4.3.3",
-    "my-plugin": "^1.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.2.0",

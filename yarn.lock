@@ -1162,20 +1162,12 @@
     to-fast-properties "^2.0.0"
 
 "@burner-wallet/assets@^1.0.0", "@burner-wallet/assets@^1.1.0":
-  version "1.1.7"
-  resolved "https://registry.yarnpkg.com/@burner-wallet/assets/-/assets-1.1.7.tgz#201ca7b4681c670302c06a7b4ae1201e14adb551"
-  integrity sha512-X4Eg5FUx5bpSbzQF/gNt7LTSv3kOH3WKsxtFIfylsQmJMloIgh4cCU2oaymIrpKJJ3olsy1tMaSCIUouwtjuCA==
+  version "1.1.8"
+  resolved "https://registry.yarnpkg.com/@burner-wallet/assets/-/assets-1.1.8.tgz#7d1c37413b21c55cbf6983b6e4e7a4c1b04b269d"
+  integrity sha512-KsnMtoHzcv/bSYxImBpQqP3irXue1+wzETjkD4aMyBqJ3dD+3kWLcDKHtvurRj9XIWZXrU7KZwmsTq4SkncfRg==
   dependencies:
     isomorphic-fetch "^2.2.1"
     web3-utils "^1.2.2"
-
-"@burner-wallet/cli@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@burner-wallet/cli/-/cli-0.1.0.tgz#0bd10d687f33279d4a6a284dd6766e65a334a872"
-  integrity sha512-RPtwq3uyFuid48T7xgysuDzf3qXuFLjV6YCv1cd20yzxDT/b20Ij1rU/lxONz9lGBLc7q7YYmMqj5XJY7udzYQ==
-  dependencies:
-    axios "^0.19.2"
-    web3 "^1.2.2"
 
 "@burner-wallet/core@^1.0.0", "@burner-wallet/core@^1.1.7":
   version "1.1.9"
@@ -2648,14 +2640,6 @@
     "@types/prop-types" "*"
     csstype "^2.2.0"
 
-"@types/react@16.8.19":
-  version "16.8.19"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-16.8.19.tgz#629154ef05e2e1985cdde94477deefd823ad9be3"
-  integrity sha512-QzEzjrd1zFzY9cDlbIiFvdr+YUmefuuRYrPxmkwG0UQv5XF35gFIi7a95m1bNVcFU0VimxSZ5QVGSiBmlggQXQ==
-  dependencies:
-    "@types/prop-types" "*"
-    csstype "^2.2.0"
-
 "@types/stack-utils@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
@@ -3382,13 +3366,6 @@ axios@^0.18.0:
   dependencies:
     follow-redirects "1.5.10"
     is-buffer "^2.0.2"
-
-axios@^0.19.2:
-  version "0.19.2"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
-  integrity sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==
-  dependencies:
-    follow-redirects "1.5.10"
 
 axobject-query@^2.0.2:
   version "2.0.2"

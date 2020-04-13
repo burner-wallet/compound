@@ -1,13 +1,13 @@
 {
-  "name": "my-plugin",
-  "version": "1.0.0",
+  "name": "@burner-wallet/compound",
+  "version": "0.1.0",
   "license": "MIT",
-  "main": "dist/MyPlugin.js",
-  "types": "dist/MyPlugin.d.ts",
+  "main": "dist/CompoundAsset.js",
+  "types": "dist/CompoundAsset.d.ts",
   "scripts": {
     "build": "tsc",
     "start-basic": "tsc -w",
-    "start-local": "tsc -w"
+    "start-test": "tsc -w"
   },
   "dependencies": {
     "@burner-wallet/assets": "^1.0.0",
